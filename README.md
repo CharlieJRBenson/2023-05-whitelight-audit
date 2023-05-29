@@ -78,9 +78,9 @@ The `_withdraw` transfers the calculated amount to the relevant address, protect
 
 # Security Assessment Summary
 
-**_review commit hash_ - [1c616dc6c51e909d7a0fb021dd6c375c2dfd8a5b](https://github.com/CharlieJRBenson/WhiteLightNFT/commit/1c616dc6c51e909d7a0fb021dd6c375c2dfd8a5b)**
+**_review commit hash_ - [d8907ce9c90f3caebe490feb8003ba6865e01a04](https://github.com/CharlieJRBenson/2023-05-whitelight-audit/commit/d8907ce9c90f3caebe490feb8003ba6865e01a04)**
 
-**_fixes review commit hash_ - [TBD](https://github.com/CharlieJRBenson/WhiteLightNFT/commit/1c616dc6c51e909d7a0fb021dd6c375c2dfd8a5b)**
+**_fixes review commit hash_ - [TBD](https://github.com/CharlieJRBenson/2023-05-whitelight-audit/)**
 
 ### Scope
 
