@@ -113,7 +113,7 @@ The following number of issues were found, categorized by their severity:
 
 # Detailed Findings
 
-# [C-01] Any smart contract funds "not-from-minting" will be locked forever
+# [H-01] Any smart contract funds "not-from-minting" will be locked forever
 
 ## Severity
 
